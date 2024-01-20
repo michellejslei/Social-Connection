@@ -1,0 +1,60 @@
+.menu-bar {
+    height: 141px;
+    width: 1280px;
+  }
+  
+  .menu-bar .overlap {
+    background-color: #ededed;
+    height: 127px;
+    position: relative;
+  }
+  
+  .menu-bar .logo {
+    height: 51px;
+    left: 87px;
+    position: absolute;
+    top: 37px;
+    width: 96px;
+  }
+  
+  .menu-bar .overlap-group {
+    background-color: #ffffff;
+    height: 51px;
+    position: relative;
+    width: 94px;
+  }
+  
+  .menu-bar .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+    white-space: nowrap;
+  }
+  
+  .menu-bar .menu-options {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 60px;
+    left: 237px;
+    position: absolute;
+    top: 49px;
+  }
+  
+  .menu-bar .div {
+    color: #000000;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  

@@ -1,0 +1,142 @@
+.log-in-page {
+    background-color: #efefef;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.log-in-page .div {
+    background-color: #efefef;
+    height: 832px;
+    position: relative;
+    width: 1280px;
+}
+
+.log-in-page .text-wrapper {
+    color: #000000;
+    font-family: "DM Serif Display-Regular", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    height: 66px;
+    left: 574px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 241px;
+}
+
+.log-in-page .email-box {
+    height: 46px;
+    left: 519px;
+    position: absolute;
+    top: 338px;
+    width: 243px;
+}
+
+.log-in-page .overlap-group {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 46px;
+    position: relative;
+    width: 241px;
+}
+
+.log-in-page .text-wrapper-2 {
+    color: #717171;
+    font-family: "DM Serif Display-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 22px;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+}
+
+.log-in-page .pw-box {
+    height: 46px;
+    left: 519px;
+    position: absolute;
+    top: 394px;
+    width: 243px;
+}
+
+.log-in-page .text-wrapper-3 {
+    color: #717171;
+    font-family: "DM Serif Display-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 19px;
+    left: 586px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 567px;
+}
+
+.log-in-page .log-in-button {
+    height: 46px;
+    left: 519px;
+    position: absolute;
+    top: 460px;
+    width: 243px;
+}
+
+.log-in-page .overlap {
+    background-color: #aeadad;
+    border-radius: 20px;
+    height: 46px;
+    position: relative;
+    width: 241px;
+}
+
+.log-in-page .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "DM Serif Display-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 22px;
+    left: 100px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+}
+
+.log-in-page .sign-up-button {
+    all: unset;
+    box-sizing: border-box;
+    height: 46px;
+    left: 519px;
+    position: absolute;
+    top: 514px;
+    width: 243px;
+}
+
+.log-in-page .div-wrapper {
+    background-color: #d9d9d9;
+    border-radius: 20px;
+    height: 46px;
+    position: relative;
+    width: 241px;
+}
+
+.log-in-page .text-wrapper-5 {
+    color: #969595;
+    font-family: "DM Serif Display-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 22px;
+    left: 95px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+}

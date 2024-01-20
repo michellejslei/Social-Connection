@@ -21,6 +21,10 @@ app.use(express.json());
 app.get('/', (req, res) => {
   res.sendFile(__dirname + '/index.html');
 });
+/// Serve Another HTML
+app.get('/another', (req, res) => {
+    res.sendFile(__dirname + '/anotherPage.html');
+  });
 
 // Handle POST request
 app.post('/api/data', async (req, res) => {
